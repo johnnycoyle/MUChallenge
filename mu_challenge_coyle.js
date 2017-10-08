@@ -31,7 +31,7 @@
 
 //function returns current row of number
 function getRow(num) {
-  return Math.floor(num/8)
+  return Math.floor(num/8);
 }
 
 function Bishop(start, end){
